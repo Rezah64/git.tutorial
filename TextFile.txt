@@ -1,8 +1,5 @@
 Hello World
 Second line
 Third line
-
 My name is Ann
-=======
 My name is ben
->>>>>>> 255c8e03ebb529dbd41ed4d54e6ec3f31512e6a9
